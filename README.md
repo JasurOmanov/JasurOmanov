@@ -50,7 +50,7 @@
         </p>
         <p>
             My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+            projects.
         </p>
     </div>
 </div>
