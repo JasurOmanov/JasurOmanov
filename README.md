@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,blender,kali,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=arch,blender,kali,git,github,linux,py,pycharm" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -33,17 +33,4 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
         </p>
-      
-        
-  <h3>🧑‍💻 About Me</h3>
-        <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
-        </p>
-        <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects.
-        </p>
-    </div>
 </div>
