@@ -29,7 +29,7 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="LinkedIn">
             </a>
             </a>
-            <a href="https://www.instagram.com/__khamidullayevich__/" target="_blank" style="text-decoration: none;">
+            <a href="https://www.instagram.com/ntyr0s/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
         </p>
