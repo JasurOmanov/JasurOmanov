@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,blender,kali,git,github,linux,py,pycharm" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=arch,blender,kali,git,github,linux,py,pycharm,cs,cloudflare,django,html,raspberrypi," alt="Skills and tools"/>
   </a>
 </p>
 
